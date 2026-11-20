@@ -1,0 +1,121 @@
+﻿Muestra,grupo_1,cel-39-3p,U6snRNA,miR-21-5p,miR-34a-5p
+CN01,Control,16.8,24.9,21.7,27.5
+CN02,Control,17.2,24.8,21.6,25.3
+CN03,Control,17.5,24.5,22.1,25.7
+CN04,Control,16.7,24.2,21.6,27.5
+CN05,Control,16.0,25.8,21.3,26.3
+CN06,Control,16.6,24.4,20.1,27.2
+CN07,Control,17.4,25.4,22.3,26.8
+CN08,Control,16.9,25.6,21.8,25.3
+CN09,Control,16.3,24.7,20.8,25.7
+CN10,Control,16.7,25.3,21.8,25.2
+CN11,Control,17.2,25.8,20.0,25.3
+CN12,Control,16.6,25.6,21.6,26.5
+CN13,Control,17.2,25.5,22.1,25.1
+CN14,Control,17.1,24.7,20.9,27.4
+CN15,Control,17.0,25.8,21.5,26.4
+CN16,Control,16.0,25.5,21.2,26.6
+CN17,Control,16.8,24.7,20.0,27.8
+CN18,Control,16.8,25.2,22.1,25.7
+CN19,Control,16.0,24.5,21.3,25.6
+CN20,Control,16.8,25.4,20.9,25.7
+CN21,Control,17.0,24.9,20.8,27.4
+CN22,Control,17.2,24.1,20.0,26.0
+CN23,Control,17.1,24.1,20.4,26.4
+CN24,Control,17.3,24.3,20.1,27.7
+CN25,Control,17.1,24.9,22.2,27.7
+CN26,Control,16.1,25.3,22.1,27.1
+CN27,Control,17.4,25.6,21.4,26.2
+CN28,Control,16.9,24.2,20.6,26.1
+CN29,Control,16.1,25.2,20.7,25.2
+CN30,Control,16.1,25.7,21.5,26.6
+CN31,Control,16.9,24.3,20.1,27.3
+CN32,Control,16.1,24.9,21.2,25.6
+CN33,Control,16.6,25.7,21.2,26.7
+CN34,Control,16.5,24.6,21.4,25.4
+CN35,Control,16.2,25.6,20.2,25.9
+CN36,Control,17.0,24.9,22.3,25.6
+CN37,Control,17.5,24.1,21.5,27.7
+CN38,Control,16.2,26.0,20.1,25.6
+CN39,Control,16.8,24.6,22.0,25.4
+CN40,Control,16.8,25.0,20.4,26.5
+CN41,Control,17.2,25.9,20.2,25.2
+CN42,Control,17.4,24.9,20.0,25.3
+CN43,Control,16.6,25.3,21.0,25.4
+CN44,Control,16.8,24.5,20.0,25.0
+CN45,Control,16.4,25.6,21.3,27.3
+CN46,Control,16.7,24.8,20.6,25.3
+CN47,Control,17.4,24.5,22.1,25.1
+CN48,Control,17.3,26.0,20.7,26.8
+CN49,Control,17.5,24.8,21.1,25.0
+CN50,Control,16.5,26.0,21.9,26.2
+CN51,Control,16.2,25.1,22.3,26.4
+CN52,Control,16.7,25.8,20.4,27.7
+CN53,Control,16.3,25.7,21.2,26.1
+CN54,Control,17.3,24.3,22.1,25.0
+CN55,Control,16.9,25.9,22.1,27.6
+CN56,Control,17.1,25.7,20.2,26.6
+CN57,Control,17.2,25.6,22.1,26.5
+CN58,Control,16.1,25.4,20.7,25.7
+CN59,Control,16.4,25.2,20.5,26.8
+CN60,Control,16.4,25.4,21.3,26.5
+LC01,Lung cancer,16.5,25.6,28.9,18.6
+LC02,Lung cancer,17.0,24.5,27.5,18.4
+LC03,Lung cancer,16.0,24.5,27.2,18.4
+LC04,Lung cancer,16.0,24.0,27.6,21.0
+LC05,Lung cancer,17.1,25.9,27.6,18.5
+LC06,Lung cancer,17.4,25.7,28.4,20.5
+LC07,Lung cancer,16.6,25.9,27.2,19.2
+LC08,Lung cancer,17.1,25.9,27.3,18.5
+LC09,Lung cancer,16.3,24.5,27.0,20.7
+LC10,Lung cancer,16.1,25.5,28.0,18.0
+LC11,Lung cancer,17.4,25.1,28.9,20.8
+LC12,Lung cancer,16.0,24.0,28.4,19.1
+LC13,Lung cancer,16.3,25.0,28.7,18.0
+LC14,Lung cancer,17.2,26.0,29.0,19.7
+LC15,Lung cancer,16.9,24.2,27.2,19.9
+LC16,Lung cancer,17.4,24.4,27.7,21.0
+LC17,Lung cancer,16.1,24.3,28.6,20.3
+LC18,Lung cancer,17.1,25.6,27.9,20.1
+LC19,Lung cancer,16.8,25.1,27.9,19.5
+LC20,Lung cancer,16.4,25.9,28.5,18.2
+LC21,Lung cancer,17.4,24.5,27.8,19.2
+LC22,Lung cancer,16.4,24.8,28.7,20.5
+LC23,Lung cancer,16.9,24.7,28.3,18.8
+LC24,Lung cancer,17.1,24.7,27.8,20.4
+LC25,Lung cancer,16.3,25.8,28.9,18.6
+LC26,Lung cancer,17.1,25.0,27.8,18.2
+LC27,Lung cancer,16.2,24.8,27.2,18.9
+LC28,Lung cancer,16.3,25.5,27.7,18.4
+LC29,Lung cancer,16.7,24.9,28.8,18.8
+LC30,Lung cancer,17.4,24.5,28.8,18.1
+LC31,Lung cancer,16.1,25.6,27.7,18.1
+LC32,Lung cancer,16.5,26.0,28.6,20.3
+LC33,Lung cancer,16.7,26.0,28.2,20.3
+LC34,Lung cancer,16.4,25.7,27.4,19.7
+LC35,Lung cancer,16.7,24.6,27.2,20.6
+LC36,Lung cancer,16.5,25.5,27.1,18.7
+LC37,Lung cancer,16.3,24.1,27.9,19.8
+LC38,Lung cancer,16.9,25.2,28.7,20.3
+LC39,Lung cancer,16.4,24.1,28.3,20.3
+LC40,Lung cancer,17.2,24.9,28.5,18.6
+LC41,Lung cancer,16.3,25.1,28.0,19.0
+LC42,Lung cancer,17.2,24.1,27.6,20.7
+LC43,Lung cancer,16.5,24.3,28.4,18.5
+LC44,Lung cancer,17.2,24.6,27.0,19.7
+LC45,Lung cancer,16.7,25.3,27.9,18.3
+LC46,Lung cancer,16.6,25.9,28.4,20.5
+LC47,Lung cancer,17.4,25.3,28.7,20.8
+LC48,Lung cancer,16.1,24.2,28.1,19.1
+LC49,Lung cancer,16.5,24.0,27.0,18.5
+LC50,Lung cancer,16.1,25.8,27.5,18.1
+LC51,Lung cancer,17.2,24.7,28.9,19.9
+LC52,Lung cancer,17.5,24.8,28.4,19.5
+LC53,Lung cancer,16.7,24.1,28.1,20.2
+LC54,Lung cancer,16.7,25.8,27.5,19.8
+LC55,Lung cancer,16.4,24.6,28.2,19.1
+LC56,Lung cancer,17.1,25.1,27.5,20.0
+LC57,Lung cancer,17.4,24.5,27.1,20.8
+LC58,Lung cancer,16.6,25.8,28.8,18.0
+LC59,Lung cancer,16.1,24.7,28.1,18.6
+LC60,Lung cancer,16.8,25.6,27.5,18.7
